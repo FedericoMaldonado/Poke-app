@@ -1,6 +1,6 @@
 # Poke App
 
-- [Preview page](https://app.netlify.com/sites/app-pokemons/overview)
+- [Preview page](https://app-pokemons.netlify.app/)
 
 ## Project Setup
 
